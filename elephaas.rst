@@ -35,8 +35,8 @@ Your Presenter
 I apologize in advance.
 
 
-It's Not What You Think
------------------------
+ElepHaaS: Not What You Think
+----------------------------
 
 HaaS != Haas
 
@@ -472,6 +472,12 @@ ElepHaaS reminds you of SSH keys
     Spacer 0,1em
 
   One of the configuration settings in `local_settings.py` is our public SSH key. When adding a server, ElepHaaS presents this key _just in case_ the new server doesn't have it already. We wanted to make sure it was obvious this is how ElepHaaS communicates with instances on all servers.
+
+
+Short Demo
+----------
+
+Let's see it in action!
 
 
 That's All it Does?!
