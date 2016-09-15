@@ -7,6 +7,8 @@ Elephant Herd as a Service
 
 .. footer::
 
+  Postgres Open 2016
+
   .. image:: images/logo.png
     :class: logo
 
@@ -33,6 +35,27 @@ Your Presenter
 .. image:: images/shaun.jpg
 
 I apologize in advance.
+
+
+Who is This Guy?!
+-----------------
+
+You may remember me from:
+
+* NVRam for Fun and Profit (PGOpen 2011)
+* High Availability with PostgreSQL and Pacemaker (PGOpen 2012)
+* Collectd and Graphite: Monitoring PostgreSQL with Style (PGOpen 2014)
+* The Bones of Highly Available Postgres (PGOpen 2015)
+* Postgres 9 High Availability Cookbook (Packt Publishing)
+* PG Phriday (http://planet.postgresql.org)
+
+.. container:: handout
+
+  .. raw:: pdf
+
+    Spacer 0,1em
+
+  I practically live at this conference, and no, I have no idea why they keep subjecting everyone to my incoherent rambling.
 
 
 ElepHaaS: Not What You Think
